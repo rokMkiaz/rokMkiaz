@@ -76,14 +76,4 @@ Graphics programming and rendering practice with Direct3D.
 
 ---
 
-## Currently Working On
 
-- Better organization of my GitHub portfolio
-- Server-side architecture and optimization notes
-- Turning real development experience into clearer public case studies
-
----
-
-## Contact
-
-- GitHub: [rokMkiaz](https://github.com/rokMkiaz)
