@@ -26,7 +26,7 @@ I value **performance, maintainability, and real production impact** more than f
 
 ## Featured Repositories
 
-### [Report](https://github.com/rokMkiaz/Report)
+### [game-server-engineering-notes](https://github.com/rokMkiazgame-server-engineering-notes)
 Notes and case studies from real development work:
 - DB optimization
 - AI-assisted tool creation
