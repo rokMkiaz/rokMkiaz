@@ -33,9 +33,6 @@ Notes and case studies from real development work:
 - legacy code improvement
 - production issue analysis
 
-### [ServerDevelop](https://github.com/rokMkiaz/ServerDevelop)
-Study and implementation notes related to game server development.
-
 ### [Data_structure_and_Algorithm](https://github.com/rokMkiaz/Data_structure_and_Algorithm)
 Personal study repository for core computer science fundamentals.
 
